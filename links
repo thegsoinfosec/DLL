@@ -1,0 +1,21 @@
+Adaptive DLL Hijacking
+
+https://silentbreaksecurity.com/adaptive-dll-hijacking/
+
+
+more info:
+
+    https://resources.infosecinstitute.com/dll-hijacking-attacks-revisited/
+    https://pentestlab.blog/2017/03/27/dll-hijacking/
+    https://liberty-shell.com/sec/2019/03/12/dll-hijacking/
+    https://astr0baby.wordpress.com/2018/09/08/understanding-how-dll-hijacking-works/
+    https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1493862085.pdf
+    https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
+
+
+
+In addition, some tooling designed to discover/exploit hijacks:
+
+    https://github.com/cys3c/Siofra [https://github.com/Cybereason/siofra]
+    https://github.com/cyberark/DLLSpy
+    https://github.com/MojtabaTajik/Robber
